@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Streets of Rage 4 Fans',
   },
   plugins: ['gatsby-plugin-react-helmet'],
 }
